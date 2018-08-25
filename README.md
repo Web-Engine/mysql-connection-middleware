@@ -1,4 +1,5 @@
 # Mysql Connection Middleware
+The connection created by this middleware will automatically release.
 
 ## How to use
    
